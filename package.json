@@ -17,7 +17,7 @@
     "react-native-fs": "^2.16.6",
     "react-native-randombytes": "^3.5.3",
     "react-native-stream": "^0.1.9",
-    "xlsx": "^0.15.6"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
